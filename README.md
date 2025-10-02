@@ -6,7 +6,7 @@ La idea es que cada usuario pueda registrar libros, consultar sus detalles (auto
 ## Ejecución del proyecto
 
 ### Requisitos
-- **Go** (1.20 o superior)  
+- **Go** 
 - **Docker** y **Docker Compose**  
 
 ###  Clonar el repositorio
